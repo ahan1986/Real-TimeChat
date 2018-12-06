@@ -1,0 +1,32 @@
+{
+  "name": "repos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.12",
+    "@types/react": "^16.7.13",
+    "@types/react-dom": "^16.0.11",
+    "@types/ws": "^6.0.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "ws": "^6.1.2"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.3",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^5.0.0",
+    "gulp-uglify": "^3.0.1",
+    "tsify": "^4.0.1"
+  }
+}
